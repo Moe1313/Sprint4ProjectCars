@@ -1,0 +1,6 @@
+pandas==2.2.3
+scipy==1.15.1
+streamlit==1.41.1
+altair==5.0.1
+plotly==5.15.0
+pyarrow==18.1.0
