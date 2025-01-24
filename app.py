@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st 
 import plotly.express as px 
 
-df_orig = pd.read_csv(r"C:\PythonCode\Sprint4FinalProject\Sprint4ProjectCars\vehicles_us.csv")
+df_orig = pd.read_csv(r"vehicles_us.csv")
 #Making copy of original dataframe and will use this dataframe copy for the analysis going forward
 df_Cars = df_orig.copy()
 #We will now clean up dataframe
